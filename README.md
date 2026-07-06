@@ -21,4 +21,4 @@ A relational database system designed for managing cinema operations, including 
 - Normalization
 
 ## Author
-Abdulmohsen Alaleid
+Abdulmohsen Aleid
